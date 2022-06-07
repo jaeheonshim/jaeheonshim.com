@@ -1,0 +1,19 @@
+name: Jaeheon Shim
+dp: https://avatars.githubusercontent.com/u/35268332?v=4
+description: "
+  <p>
+    Jaeheon Shim's personal blog - a collection of articles on computer science, math, problem solving, and more.
+  </p>
+  <br/>
+  <p>
+    You should follow me on <a href='https://github.com/jaeheonshim' target='_blank'>Github</a>
+  </P>
+"
+email: dev_sharad@outlook.com
+contact:
+  - title: github
+    url: https://github.com/jaeheonshim
+  - title: dev
+    url: https://dev.to/jaeheonshim
+  - title: email
+    url: mailto:js@jaeheonshim.com
